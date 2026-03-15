@@ -1,0 +1,11 @@
+Q = 0.0102
+fluct_rate = 0.007
+run = 0
+
+Galactic coordinates:
+l = 176.9° (delta_l = 26.9°)
+b = -7.3° (delta_b = 2.3°)
+
+Target: l=150°, b=-5°
+
+Status: ✅ Fourth confirmation

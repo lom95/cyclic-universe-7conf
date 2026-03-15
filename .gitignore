@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.so
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Simulation results (огромные папки с данными)
+results/scan_results_full/
+results/scan_results_full_old/
+results/*.h5
+results/*.hdf5
+
+# Large data files (сырые данные можно не загружать)
+data/raw/
+*.fits
+*.fits.gz
+*.csv
+*.dat
+*.vot
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Latex auxiliary files
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.synctex.gz
+*.synctex
+*.synctex.gz(busy)
+*.run.xml
+*.bcf
+
+# arXiv submission (если будешь архивировать)
+arxiv_submission.zip
+arxiv_submission/
+
+# GitHub specific
+*.diff
+*.patch

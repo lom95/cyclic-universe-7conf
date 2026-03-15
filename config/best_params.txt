@@ -1,0 +1,11 @@
+# Best parameters found after 139 runs
+# Gamma-ray dipole match (l=176.9°, b=-7.3°)
+
+G = 0.095
+Lambda = 0.05
+Q = 0.0102
+neg_mass_ratio = 0.05
+noise_level = 0.0001
+fluct_rate = 0.007
+TIME_STEP = 0.05
+MAX_PARTICLES = 5000
