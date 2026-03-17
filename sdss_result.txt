@@ -1,0 +1,10 @@
+CONFIRMATION 2: SDSS LARGE-SCALE STRUCTURE
+==================================================
+
+Particles: 50
+Spatial extent: 34502259377664360.00 x 33279483820962944.00
+Mean density: 4.35e-32
+Void fraction: 10.0%
+Filament fraction: 10.0%
+
+CONFIRMATION 2: NEEDS IMPROVEMENT - Structure deviates

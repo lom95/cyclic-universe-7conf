@@ -1,0 +1,9 @@
+CONFIRMATION 3: MCXC GALAXY CLUSTERS
+==================================================
+
+Particles analyzed: 50
+Clusters detected: 33
+Average cluster mass: 0.21
+Maximum cluster mass: 0.41
+
+Confirmation 3: PASSED

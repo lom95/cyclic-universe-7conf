@@ -1,0 +1,10 @@
+CONFIRMATION 4: FERMI GAMMA-RAY DIPOLE
+==================================================
+
+Fermi dipole: l = 150°, b = -5°
+Simulation dipole: l = 0.0°, b = 0.0°
+Particles used: 50
+Dipole strength: 31.50
+Angular separation: 149.6°
+Acceptance threshold: 30°
+Confirmation 4: NEEDS IMPROVEMENT

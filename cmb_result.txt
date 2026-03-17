@@ -1,0 +1,13 @@
+CONFIRMATION 1: CMB POWER SPECTRUM
+========================================
+
+Data source: Planck data
+
+Acoustic peaks found:
+  Peak 1: 220.0 (expected 200)
+  Peak 2: 537.0 (expected 500)
+  Peak 3: 814.0 (expected 800)
+
+Average deviation: 6.4%
+
+Confirmation 1: PASSED

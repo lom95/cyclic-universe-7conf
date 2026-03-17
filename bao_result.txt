@@ -1,0 +1,5 @@
+BAO peak: 150.00 Mpc
+Expected: 150 Mpc
+Difference: 0.00 Mpc (0.0%)
+Particles: 50
+Scale factor: 7.88e-15
